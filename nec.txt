@@ -4,3 +4,4 @@
 #username and password while ' ' will be strip automatically
 ######################################################
 tech|123456
+admin|123456
