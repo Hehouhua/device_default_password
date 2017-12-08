@@ -1,0 +1,6 @@
+######################################################
+#Attention: no '#','|',' ' in username and password
+# '#' means comment and '|' is a seperator between 
+#username and password while ' ' will be strip automatically
+######################################################
+Admin|Admin		#ECOSYS P2135dn

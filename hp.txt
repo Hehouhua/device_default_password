@@ -1,0 +1,7 @@
+######################################################
+#Attention: no '#','|',' ' in username and password
+# '#' means comment and '|' is a seperator between 
+#username and password while ' ' will be strip automatically
+######################################################
+admin|admin				#HP LaserJet MFP M436n
+root|myroot				#HP Officejet 8210 /etc/passwd & /etc/shadow

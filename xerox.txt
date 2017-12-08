@@ -1,0 +1,8 @@
+######################################################
+#Attention: no '#','|',' ' in username and password
+# '#' means comment and '|' is a seperator between 
+#username and password while ' ' will be strip automatically
+######################################################
+11111|x-admin				#DocuCentre-V C2263£¨2015£©
+admin|1111					#Phaser3435
+admin|admin					
