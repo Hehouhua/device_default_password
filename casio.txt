@@ -3,4 +3,4 @@
 # '#' means comment and '|' is a seperator between 
 #username and password while ' ' will be strip automatically
 ######################################################
-root|calvin		#PowerEdge M620
+admin|admin		#casio xj-fc330xn

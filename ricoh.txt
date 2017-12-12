@@ -3,6 +3,7 @@
 # '#' means comment and '|' is a seperator between 
 #username and password while ' ' will be strip automatically
 ######################################################
-SP 212SFNw/默认密码为空
 admin|		#Aficio MP2000,Aficio MP 301,default password is null
-supervisor| #Aficio MP 301
+supervisor| 	#Aficio MP 301
+admin|admin	#PJ HD5900/PJ X5300
+SP 212SFNw/默认密码为空
