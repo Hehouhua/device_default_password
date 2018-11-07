@@ -3,7 +3,7 @@
 # '#' means comment and '|' is a seperator between 
 #username and password while ' ' will be strip automatically
 ######################################################
-|				#MF720C Series printer
-user|0000		#username must be 'user' and cannot be changed in cannon projector LV-8320
-ADMIN|canon		#MG7500 series, MG6700 series, MG6600 series, MG5600 series£¬MG2900 series, MX490 series, MB5300 series, MB5000 series£¬MB2300 series, MB2000 series, E480 series, E460 series£¬iP110 series, iB4000 series, PRO-100S series, PRO-10S series
+|                #MF720C Series printer
+user|0000        #username must be 'user' and cannot be changed in cannon projector LV-8320
+ADMIN|canon        #MG7500 series, MG6700 series, MG6600 series, MG5600 series£¬MG2900 series, MX490 series, MB5300 series, MB5000 series£¬MB2300 series, MB2000 series, E480 series, E460 series£¬iP110 series, iB4000 series, PRO-100S series, PRO-10S series
 #Others for ADMIN/serial number http://ugp01.c-ij.com/ij/webmanual/Others1/EN/PW/pw_default.html

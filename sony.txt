@@ -3,5 +3,4 @@
 # '#' means comment and '|' is a seperator between 
 #username and password while ' ' will be strip automatically
 ######################################################
-admin|admin				#HP LaserJet MFP M436n
-root|myroot				#ssh password HP Officejet 8210 /etc/passwd & /etc/shadow
+root|Projector			#VPL-SW235,SW225,SX236,SX235,SX226,SX225,EW578,EW575,EW455,EW435,EX575,EX573,EX570,EX455,EX453,EX450,EX435,EX433,EX430,Some of them has been changed to root/Project0r
